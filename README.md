@@ -40,4 +40,4 @@ End-to-end data analysis of Transjakarta ridership, from cleaning raw data in Ex
 5. Average trip duration is around 72 minutes
 
 ## Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](images/Dashboard_Preview.png)
